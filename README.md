@@ -22,7 +22,7 @@ In my free time I like to meditate and catch up on projects.
 This markdown file has been made to demonstrate deployment witht the github pages and the basics of markdown.
 
 #### Growth Mindset
-A Growth Mindset means that you thrive on challenges and don't see failure as a way to describe yourself but, as a springboard for growth and developing your abilities and intelligence to be able to suit the enviroment you are in to fully optimise yourself to the highest extent of ones abilites. A Growth mindset can also further ones one goals and achievements because they know that they are capable of learning more if they just put that extra effort in to see the "bright path ahead".
+A Growth Mindset means that you thrive on challenges and don't see failure as a way to describe yourself but, as a springboard for growth and developing your abilities and intelligence to be able to suit the enviroment you are in to fully optimise yourself to the highest extent of ones abilites. A Growth mindset can also further one's own goals and achievements because they know that they are capable of learning more, if they just put that extra effort in to see the "bright path ahead".
 
 You can stay up to date and view my github [HERE](https://github.com/iTannnk)
 
@@ -39,6 +39,9 @@ Markdown is a language that was creating in 2004 by John Gruber. Ever since then
 For a header in markdown you would use the '#' symbol. Bold text is created by using '**' at the beginning and end of the word(s). For website design this may be easier then commands like <head><head/> as you the amount of characters used to get the command you want is greatly reduced.
 
 #### So Why Use Markdown?
+ As you could probably imagine there are several key reasons why one would prefer to use markdown over other text editors. here are some examples;
+- Markdown is platform independent - This means that you can create Markdown formatted text on ANY device running any operating system!
+- Markdown can be used for everything. The range of use is has it very vast, for instance people use it to create websites,documents,notes,books,presentations,email messages and technical documentation.
 
 
 
