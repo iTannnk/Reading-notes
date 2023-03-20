@@ -24,4 +24,4 @@ This markdown file has been made to demonstrate deployment witht the github page
 #### Growth Mindset
 A Growth Mindset means that you thrive on challenges and don't see failure as a way to describe yourself but, as a springboard for growth and developing your abilities and intelligence to be able to suit the enviroment you are in to fully optimise yourself to the highest extent of ones abilites. A Growth mindset can also further ones one goals and achievements because they know that they are capable of learning more if they just put that extra effort in to see the "bright path ahead".
 
-You can stay up to date and view my github [HERE] (https://github.com/iTannnk)
+You can stay up to date and view my github [HERE](https://github.com/iTannnk)
