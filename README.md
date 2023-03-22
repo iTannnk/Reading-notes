@@ -43,6 +43,11 @@ For a header in markdown you would use the '#' symbol. Bold text is created by u
 - Markdown is platform independent - This means that you can create Markdown formatted text on ANY device running any operating system!
 - Markdown can be used for everything. The range of use is has it very vast, for instance people use it to create websites,documents,notes,books,presentations,email messages and technical documentation.
 
+### Contents 
+** Code 102 **
+Class 01 [Learning Markdown]{https://github.com/iTannnk/Reading-notes/blob/main/class102/class102-01.md}
+Class 02 [The Coders Computer]
+
 
 
  
