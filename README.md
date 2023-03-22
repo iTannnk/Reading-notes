@@ -45,7 +45,9 @@ For a header in markdown you would use the '#' symbol. Bold text is created by u
 
 ### Contents 
 ** Code 102 **
-Class 01 [Learning Markdown]
+
+Class 01 [Learning Markdown]{https://github.com/iTannnk/Reading-notes/blob/main/class102/class102-01}  
+
 
 
 
